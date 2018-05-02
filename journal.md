@@ -18,5 +18,8 @@ We found out lots of cool things.
 Figures
 This is where the figures go.
 
+Acknowledgements
+We would like to thank everybody in the whole world
+
 
 
