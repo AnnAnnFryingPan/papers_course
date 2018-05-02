@@ -15,5 +15,8 @@ Here are our results!!
 Conclusions
 We found out lots of cool things.
 
+Figures
+This is where the figures go.
+
 
 
