@@ -1,5 +1,6 @@
 A paper about even better and slightly different stuff
 Ann Gledson and John Keane
+Author affiliations go here
 
 Absract
 This is a great paper
