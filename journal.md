@@ -9,3 +9,6 @@ This is the simulations section.
 
 Methodology
 this is the methodology section based on Paton 2008
+
+Conclusions
+We found out lots of cool things.
